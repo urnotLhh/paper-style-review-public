@@ -1,10 +1,10 @@
 # paper-style-review
 
-> Public-safe OpenClaw skill for structured Chinese thesis/paper review, style learning, and Word comment injection.
+> Review Chinese theses with structure-aware checks, style learning from reference papers, and Word comment injection.
 >
-> 面向中文论文 / 学位论文的结构化审校流水线：融合格式检查、术语/逻辑/风格审查，并把结果回挂为 Word 批注。
+> 面向中文论文 / 学位论文的结构化审校 skill：学习参考论文风格，统一结构图谱，执行格式、术语、逻辑、风格融合审查，并把结果回挂为 Word 批注。
 
-`paper-style-review` 是这个 skill 的**公开安全发布版（public-safe release）**。它保留了可运行的主链脚本、可分发的 schema / 派生规则、以及技能说明，适合社区展示、仓库开源和后续 skill 社区提交；同时刻意排除了真实论文、历史输出、原始附件和本地工作区痕迹。
+`paper-style-review` 是这个 skill 的**公开安全发布版（public-safe release）**。它保留了可运行的主链脚本、可分发的 schema / 派生规则和技能说明，适合社区展示、仓库开源与 ClawHub 发布；同时刻意排除了真实论文、历史输出、原始附件和本地工作区痕迹。
 
 ## Why this repo exists
 
